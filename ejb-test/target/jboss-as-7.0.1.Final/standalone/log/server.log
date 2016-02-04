@@ -1,0 +1,72 @@
+23:57:08,845 INFO  [org.jboss.as.connector.subsystems.datasources] (Controller Boot Thread) Deploying JDBC-compliant driver class org.h2.Driver (version 1.2)
+23:57:08,862 INFO  [org.jboss.as.clustering.infinispan.subsystem] (Controller Boot Thread) Activating Infinispan subsystem.
+23:57:08,955 INFO  [org.jboss.as.naming] (Controller Boot Thread) Activating Naming Subsystem
+23:57:08,965 INFO  [org.jboss.as.naming] (MSC service thread 1-5) Starting Naming Service 
+23:57:08,967 INFO  [org.jboss.as.osgi] (Controller Boot Thread) Activating OSGi Subsystem
+23:57:08,984 INFO  [org.jboss.as.security] (Controller Boot Thread) Activating Security Subsystem
+23:57:08,993 INFO  [org.jboss.remoting] (MSC service thread 1-5) JBoss Remoting version 3.2.0.Beta2
+23:57:09,005 INFO  [org.xnio] (MSC service thread 1-5) XNIO Version 3.0.0.Beta3
+23:57:09,065 INFO  [org.xnio.nio] (MSC service thread 1-5) XNIO NIO Implementation Version 3.0.0.Beta3
+23:57:09,196 INFO  [org.apache.catalina.core.AprLifecycleListener] (MSC service thread 1-4) The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Basak/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+23:57:09,204 INFO  [org.jboss.as.ee] (Controller Boot Thread) Activating EE subsystem
+23:57:09,209 INFO  [org.jboss.as.jmx.JMXConnectorService] (MSC service thread 1-7) Starting remote JMX connector
+23:57:09,260 INFO  [org.jboss.as.remoting] (MSC service thread 1-2) Listening on /127.0.0.1:9999
+23:57:09,288 INFO  [org.apache.coyote.http11.Http11Protocol] (MSC service thread 1-3) Starting Coyote HTTP/1.1 on http--127.0.0.1-8080
+23:57:09,380 INFO  [org.jboss.as.connector] (MSC service thread 1-1) Starting JCA Subsystem (JBoss IronJacamar 1.0.3.Final)
+23:57:09,453 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-3) Bound data source [java:jboss/datasources/ExampleDS]
+23:57:09,624 INFO  [org.jboss.as.deployment] (MSC service thread 1-1) Started FileSystemDeploymentService for directory /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/deployments
+23:57:09,634 INFO  [org.jboss.as] (Controller Boot Thread) JBoss AS 7.0.1.Final "Zap" started in 1723ms - Started 93 of 148 services (55 services are passive or on-demand)
+23:57:13,821 INFO  [org.jboss.as.server.deployment] (pool-1-thread-1) Content added at location /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/data/content/61/021776160d787bb46d5df7dee5ea0b125f80aa/content
+23:57:13,834 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) Starting deployment of "arquillian-service"
+23:57:13,970 INFO  [org.jboss.as.jpa] (MSC service thread 1-6) added javax.persistence.api dependency to arquillian-service
+23:57:14,004 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-5) JBossOSGi Framework Core - 1.0.0.CR8
+23:57:14,060 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-5) Install bundle: system.bundle:0.0.0
+23:57:14,255 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-5) Install bundle: javaee.api:0.0.0
+23:57:14,285 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-1) Install bundle: jboss-as-osgi-configadmin:7.0.1.Final
+23:57:14,295 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-7) Install bundle: org.apache.felix.log:1.0.0
+23:57:14,350 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-7) Install bundle: org.jboss.logging:3.0.0
+23:57:14,368 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-5) Install bundle: jboss-osgi-jmx:1.0.10
+23:57:14,369 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-1) Install bundle: jbosgi-webconsole:1.0.6
+23:57:14,416 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-5) Install bundle: org.apache.aries.util:0.3.0
+23:57:14,449 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-8) Install bundle: org.apache.felix.eventadmin:1.2.6
+23:57:14,453 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-6) Install bundle: jbosgi-webapp:1.0.2
+23:57:14,478 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-7) Install bundle: org.apache.aries.jmx:0.3.0
+23:57:14,488 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-7) Install bundle: jboss-osgi-logging:1.0.0
+23:57:14,508 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-5) Install bundle: org.apache.felix.metatype:1.0.4
+23:57:14,509 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-2) Install bundle: jboss-osgi-xerces:2.9.1.SP7
+23:57:14,529 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-8) Install bundle: org.apache.felix.configadmin:1.2.8
+23:57:14,571 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-6) Install bundle: jbosgi-blueprint:1.0.2
+23:57:14,603 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-4) Install bundle: org.apache.felix.webconsole:3.1.6.SP1
+23:57:14,620 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-3) Install bundle: jboss-osgi-http:1.0.3
+23:57:14,629 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-7) Install bundle: org.apache.felix.scr:1.6.0
+23:57:14,725 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-1) Install bundle: osgi.cmpn:4.2.0.200908310645
+23:57:14,753 INFO  [org.jboss.osgi.framework.internal.StartLevelPlugin] (MSC service thread 1-8) Starting bundles for start level: 1
+23:57:14,824 INFO  [org.jboss.osgi.framework.internal.HostBundleState] (MSC service thread 1-8) Bundle started: jboss-osgi-logging:1.0.0
+23:57:14,833 INFO  [org.jboss.osgi.framework.internal.HostBundleState] (MSC service thread 1-8) Bundle started: jboss-as-osgi-configadmin:7.0.1.Final
+23:57:14,843 INFO  [org.jboss.osgi.framework.internal.HostBundleState] (MSC service thread 1-8) Bundle started: org.apache.felix.log:1.0.0
+23:57:14,945 INFO  [org.jboss.osgi.framework.internal.HostBundleState] (MSC service thread 1-8) Bundle started: org.apache.felix.configadmin:1.2.8
+23:57:14,947 INFO  [org.jboss.osgi.framework.internal.FrameworkActive] (MSC service thread 1-8) OSGi Framework started
+23:57:14,948 INFO  [org.jboss.as.osgi] (MSC service thread 1-8) Register module: Module "deployment.arquillian-service:main" from Service Module Loader
+23:57:14,951 INFO  [org.jboss.osgi.framework.internal.BundleManager] (MSC service thread 1-6) Install bundle: arquillian-service:0.0.0
+23:57:14,985 INFO  [org.jboss.as.server.controller] (pool-1-thread-1) Deployed "arquillian-service"
+23:57:15,045 INFO  [org.jboss.as.server.deployment] (pool-1-thread-1) Content added at location /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/data/content/b4/12dd23ed1e7f987d316ce4937a4dd9f6e9ba22/content
+23:57:15,048 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) Starting deployment of "firstejb.jar"
+23:57:15,072 INFO  [org.jboss.as.jpa] (MSC service thread 1-5) added javax.persistence.api dependency to firstejb.jar
+23:57:15,084 INFO  [org.jboss.as.ejb3.deployment.processors.EjbJndiBindingsDeploymentUnitProcessor] (MSC service thread 1-1) JNDI bindings for session bean named CalculatorBeanNoInterfaceView in deployment unit deployment "firstejb.jar" are as follows:
+
+	java:global/firstejb/CalculatorBeanNoInterfaceView!com.basak.sample.firstejb.CalculatorBeanNoInterfaceView
+	java:app/firstejb/CalculatorBeanNoInterfaceView!com.basak.sample.firstejb.CalculatorBeanNoInterfaceView
+	java:module/CalculatorBeanNoInterfaceView!com.basak.sample.firstejb.CalculatorBeanNoInterfaceView
+	java:global/firstejb/CalculatorBeanNoInterfaceView
+	java:app/firstejb/CalculatorBeanNoInterfaceView
+	java:module/CalculatorBeanNoInterfaceView
+
+23:57:15,152 INFO  [org.jboss.as.arquillian] (MSC service thread 1-8) Arquillian deployment detected: ArquillianConfig[service=jboss.arquillian.config."firstejb.jar",unit=firstejb.jar,tests=[com.basak.sample.firstejb.CalculatorIntegrationTestCase]]
+23:57:15,166 INFO  [org.jboss.as.server.controller] (pool-1-thread-1) Deployed "firstejb.jar"
+23:57:15,457 INFO  [org.jboss.arquillian.testenricher.cdi.container.BeanManagerProducer] (RMI TCP Connection(3)-127.0.0.1) BeanManager not found.
+23:57:15,487 INFO  [stdout] (RMI TCP Connection(3)-127.0.0.1) ###
+23:57:15,487 INFO  [stdout] (RMI TCP Connection(3)-127.0.0.1) @@ 1
+23:57:15,505 INFO  [stdout] (RMI TCP Connection(3)-127.0.0.1) @@ 2
+23:57:15,543 INFO  [org.jboss.as.server.controller] (pool-1-thread-1) Undeployed "firstejb.jar"
+23:57:15,548 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-6) Stopped deployment firstejb.jar in 10ms
+23:57:15,577 INFO  [org.apache.coyote.http11.Http11Protocol] (MSC service thread 1-2) Stopping Coyote HTTP/1.1 on http--127.0.0.1-8080

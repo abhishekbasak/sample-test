@@ -1,0 +1,5 @@
+#surefire
+#Wed Feb 03 23:57:04 CST 2016
+user.dir=/Basak/development/POC/EJB/sample-test/ejb-test
+localRepository=/Basak/development/POC/Aurora/m2_repo
+basedir=/Basak/development/POC/EJB/sample-test/ejb-test

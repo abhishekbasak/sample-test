@@ -1,0 +1,102 @@
+23:57:08,151 INFO  [org.jboss.modules] JBoss Modules version 1.0.1.GA
+23:57:08,337 INFO  [org.jboss.msc] JBoss MSC version 1.0.0.GA
+23:57:08,378 INFO  [org.jboss.as] JBoss AS 7.0.1.Final "Zap" starting
+23:57:08,378 DEBUG [org.jboss.as.config] Configured system properties:
+	awt.toolkit = sun.lwawt.macosx.LWCToolkit
+	file.encoding = UTF-8
+	file.encoding.pkg = sun.io
+	file.separator = /
+	ftp.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+	gopherProxySet = false
+	http.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+	java.awt.graphicsenv = sun.awt.CGraphicsEnvironment
+	java.awt.printerjob = sun.lwawt.macosx.CPrinterJob
+	java.class.path = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/jboss-modules.jar
+	java.class.version = 52.0
+	java.endorsed.dirs = /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/endorsed
+	java.ext.dirs = /Users/Basak/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+	java.home = /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre
+	java.io.tmpdir = /var/folders/s7/94_045qx7p75msy748q8y2wh0000gn/T/
+	java.library.path = /Users/Basak/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 1.8.0_45-b14
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 1.8
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = http://java.oracle.com/
+	java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+	java.version = 1.8.0_45
+	java.vm.info = mixed mode
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 1.8
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 25.45-b02
+	javax.xml.datatype.DatatypeFactory = __redirected.__DatatypeFactory
+	javax.xml.parsers.DocumentBuilderFactory = __redirected.__DocumentBuilderFactory
+	javax.xml.parsers.SAXParserFactory = __redirected.__SAXParserFactory
+	javax.xml.stream.XMLEventFactory = __redirected.__XMLEventFactory
+	javax.xml.stream.XMLInputFactory = __redirected.__XMLInputFactory
+	javax.xml.stream.XMLOutputFactory = __redirected.__XMLOutputFactory
+	javax.xml.transform.TransformerFactory = __redirected.__TransformerFactory
+	javax.xml.validation.SchemaFactory:http://www.w3.org/2001/XMLSchema = __redirected.__SchemaFactory
+	javax.xml.xpath.XPathFactory:http://java.sun.com/jaxp/xpath/dom = __redirected.__XPathFactory
+	jboss.home.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final
+	jboss.host.name = abhisheks-macbook-pro
+	jboss.modules.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/modules
+	jboss.node.name = abhisheks-macbook-pro
+	jboss.qualified.host.name = abhisheks-macbook-pro.local
+	jboss.server.base.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone
+	jboss.server.config.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/configuration
+	jboss.server.data.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/data
+	jboss.server.deploy.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/data/content
+	jboss.server.log.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/log
+	jboss.server.name = abhisheks-macbook-pro
+	jboss.server.temp.dir = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/standalone/tmp
+	line.separator = 
+
+	logging.configuration = file:target/jboss-as-7.0.1.Final/standalone/configuration/logging.properties
+	module.path = target/jboss-as-7.0.1.Final/modules
+	org.jboss.boot.log.file = target/jboss-as-7.0.1.Final/standalone/log/boot.log
+	org.xml.sax.driver = __redirected.__XMLReaderFactory
+	os.arch = x86_64
+	os.name = Mac OS X
+	os.version = 10.11.1
+	path.separator = :
+	socksNonProxyHosts = local|*.local|169.254/16|*.169.254/16
+	sun.arch.data.model = 64
+	sun.boot.class.path = /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/classes
+	sun.boot.library.path = /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib
+	sun.cpu.endian = little
+	sun.cpu.isalist = 
+	sun.io.unicode.encoding = UnicodeBig
+	sun.java.command = /Basak/development/POC/EJB/sample-test/ejb-test/target/jboss-as-7.0.1.Final/jboss-modules.jar -mp target/jboss-as-7.0.1.Final/modules -logmodule org.jboss.logmanager -jaxpmodule javax.xml.jaxp-provider org.jboss.as.standalone -server-config standalone.xml
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = UTF-8
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = unknown
+	user.country = US
+	user.dir = /Basak/development/POC/EJB/sample-test/ejb-test
+	user.home = /Users/Basak
+	user.language = en
+	user.name = Basak
+	user.timezone = America/Chicago
+23:57:08,814 WARN  [org.jboss.as] No security realm defined for native management service, all access will be unrestricted.
+23:57:08,820 INFO  [org.jboss.as] creating http management service using network interface (management) port (9990)
+23:57:08,822 WARN  [org.jboss.as] No security realm defined for http management service, all access will be unrestricted.
+23:57:08,829 INFO  [org.jboss.as.logging] Removing bootstrap log handlers
+23:57:15,585 INFO  [org.jboss.as.logging] Restored bootstrap log handlers
+23:57:15,586 INFO  [org.apache.catalina.core.StandardContext] Container org.apache.catalina.core.ContainerBase.[jboss.web].[default-host].[/] has not been started
+23:57:15,593 INFO  [com.arjuna.ats.jbossatx] ARJUNA32018: Destroying TransactionManagerService
+23:57:15,594 INFO  [com.arjuna.ats.jbossatx] ARJUNA32014: Stopping transaction recovery manager
+23:57:15,597 INFO  [org.jboss.osgi.framework.internal.HostBundleState] Bundle stopped: jboss-as-osgi-configadmin:7.0.1.Final
+23:57:15,597 INFO  [org.jboss.as.jmx.JMXConnectorService] JMX remote connector stopped
+23:57:15,599 INFO  [org.jboss.osgi.framework.internal.HostBundleState] Bundle stopped: org.apache.felix.log:1.0.0
+23:57:15,604 INFO  [org.jboss.osgi.framework.internal.HostBundleState] Bundle stopped: org.apache.felix.configadmin:1.2.8
+23:57:15,607 INFO  [org.jboss.osgi.framework.internal.HostBundleState] Bundle stopped: jboss-osgi-logging:1.0.0
+23:57:15,613 INFO  [org.jboss.as.server.deployment] Stopped deployment arquillian-service in 39ms
+23:57:15,616 INFO  [org.jboss.as.osgi] Stopping OSGi Framework
+23:57:15,617 INFO  [org.jboss.as] JBoss AS 7.0.1.Final "Zap" stopped in 34ms
